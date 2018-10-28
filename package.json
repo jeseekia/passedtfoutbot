@@ -1,0 +1,25 @@
+{
+  "name": "passedtfoutbot",
+  "version": "0.0.1",
+  "description": "This wonderful helper will allow a streamer to update viewers if for some reason they won't make it to the stream.",
+  "main": "test-bot.js",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "haikudos": "^1.0.7",
+    "tmi.js": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeseekia/passedtfoutbot.git"
+  },
+  "author": "Jeseekia a.k.a. MetaDevGirl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeseekia/passedtfoutbot/issues"
+  },
+  "homepage": "https://github.com/jeseekia/passedtfoutbot#readme"
+}
