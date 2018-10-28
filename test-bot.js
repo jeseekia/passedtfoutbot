@@ -38,7 +38,7 @@ function echo (target, context, params) {
 
 // Function called when the "wattupdoe" command is issued:
 function wattupdoe (target, context) {
-  //say wattupdoe
+  //say wattupdoe to the people!
   msg = "Wattupdoe!!!!!"
   sendMessage(target, context, msg)
 }
